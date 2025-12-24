@@ -194,7 +194,5 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 <img width="1857" height="627" alt="Screenshot 2025-12-24 135145" src="https://github.com/user-attachments/assets/fa9d245b-ff41-4ffb-b0ad-0364dce81616" />
-
-
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
